@@ -18,6 +18,8 @@
 &nbsp;  
 ## Project Examples
 
+### Browser Automation
+
 - **Local, Non-Distributed Automated Browser Test with Selenium**  
   A basic test case using Selenium for browser automation in a local, non-Grid test setup.  
    **_Repo: [TestCase.Selenium.Local](https://github.com/FrankThonig/TestCase.Selenium.Local)_** 
@@ -25,3 +27,9 @@
 - **Distributed Automated Browser Test with Selenium**  
   A basic test case using Selenium for browser automation with a Grid based distributed test setup.  
    **_Repo: [TestCase.Selenium.Grid](https://github.com/FrankThonig/TestCase.Selenium.Grid)_** 
+
+### Mobile App Automation
+
+- **Distributed Automated Mobile App Test with Appium**  
+  A basic test case using Appium for app automation with an Appium server based distributed test setup.  
+   **_Repo: [TestCase.Appium](https://github.com/FrankThonig/TestCase.Appium)_** 
