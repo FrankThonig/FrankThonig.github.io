@@ -20,16 +20,20 @@
 
 ### Browser Automation
 
-- **Local, Non-Distributed Automated Browser Test with Selenium**  
+- **Test case: web search. Local, Non-Distributed Automated Browser Test with Selenium**  
   A basic test case using Selenium for browser automation in a local, non-Grid test setup.  
-   **_Repo: [TestCase.Selenium.Local](https://github.com/FrankThonig/TestCase.Selenium.Local)_** 
+   **_Repo: [TestCase.Selenium.WebSearch.Local](https://github.com/FrankThonig/TestCase.Selenium.WebSearch.Local)_** 
 
-- **Distributed Automated Browser Test with Selenium**  
+- **Test case: web search. Distributed Automated Browser Test with Selenium**  
   A basic test case using Selenium for browser automation with a Grid based distributed test setup.  
-   **_Repo: [TestCase.Selenium.Grid](https://github.com/FrankThonig/TestCase.Selenium.Grid)_** 
+   **_Repo: [TestCase.Selenium.WebSearch.Grid](https://github.com/FrankThonig/TestCase.Selenium.WebSearch.Grid)_** 
+
+- **Test case: user registration. Browser Automation Test with Selenium**  
+  A basic test case using Selenium for browser automation.  
+   **_Repo: [TestCase.Selenium.UserRegistration](https://github.com/FrankThonig/TestCase.Selenium.UserRegistration)_** 
 
 ### Mobile App Automation
 
-- **Distributed Automated Mobile App Test with Appium**  
+- **Test case: calculator operation. Distributed Automated Mobile App Test with Appium**  
   A basic test case using Appium for app automation with an Appium server based distributed test setup.  
-   **_Repo: [TestCase.Appium](https://github.com/FrankThonig/TestCase.Appium)_** 
+   **_Repo: [TestCase.Appium.Calculator](https://github.com/FrankThonig/TestCase.Appium.Calculator)_** 
