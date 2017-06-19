@@ -37,3 +37,8 @@
 - **Test case: calculator operation. Distributed Automated Mobile App Test with Appium**  
   A basic test case using Appium for app automation with an Appium server based distributed test setup.  
    **_Repo: [TestCase.Appium.Calculator](https://github.com/FrankThonig/TestCase.Appium.Calculator)_** 
+
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
