@@ -11,7 +11,7 @@
 
 [GitHub](https://github.com/FrankThonig)  
 [StackOverflow](http://stackoverflow.com/cv/frankthonig)  
-[LinkedIn](https://www.linkedin.com/in/frank-thonig-9185079b)  
+[LinkedIn](https://www.linkedin.com/in/frank-thonig)  
 [XING](https://www.xing.com/profile/Frank_Thonig)  
 [Freelance.de](https://www.freelance.de/Freiberufler/99591/highlight=frank,thonig)  
 &nbsp;  
