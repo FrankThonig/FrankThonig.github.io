@@ -9,8 +9,9 @@
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/frank-thonig)  
-[XING](https://www.xing.com/profile/Frank_Thonig)  
-[Freelancermap.de](https://www.freelancermap.de/freelancer-verzeichnis/profile/entwicklung/115103-profil-frank-thonig-software-test-automation.html)  
-[Freelance.de](https://www.freelance.de/Freiberufler/99591/highlight=frank,thonig)  
-[StackOverflow](http://stackoverflow.com/cv/frankthonig)  
+[linkedin](https://www.linkedin.com/in/frank-thonig)  
+[xing](https://www.xing.com/profile/Frank_Thonig)  
+[freelancermap](https://www.freelancermap.de/freelancer-verzeichnis/profile/entwicklung/115103-profil-frank-thonig-software-test-automation.html)  
+[freelance](https://www.freelance.de/Freiberufler/99591/highlight=frank,thonig)  
+[gulp](https://www.gulp.de/gulp2/g/spezialisten/profil/FrankThonig)  
+[stackoverflow](http://stackoverflow.com/cv/frankthonig)  
