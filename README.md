@@ -12,6 +12,6 @@
 [linkedin](https://www.linkedin.com/in/frank-thonig)  
 [xing](https://www.xing.com/profile/Frank_Thonig)  
 [freelancermap](https://www.freelancermap.de/freelancer-verzeichnis/profile/entwicklung/115103-profil-frank-thonig-software-test-automation.html)  
-[freelance](https://www.freelance.de/Freiberufler/99591/highlight=frank,thonig)  
+[freelance](https://www.freelance.de/Freiberufler/99591-Software-Test-Automation)  
 [gulp](https://www.gulp.de/gulp2/g/spezialisten/profil/FrankThonig)  
 [stackoverflow](http://stackoverflow.com/cv/frankthonig)  
