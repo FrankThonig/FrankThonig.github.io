@@ -1,7 +1,7 @@
 &nbsp;  
 # Frank Thonig
 
-<img align="right" src="/img/Profile.jpg" />
+<img align="right" src="/img/Profile.jpg" width=100/>
 
 ### Software Test Automation
 **Freelancer**  
