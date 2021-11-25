@@ -3,11 +3,11 @@
 
 <img align="right" src="/img/Profile.jpg" width=150/>
 
-### Software Test Automation
-**Freelancer**  
-**Dresden, Germany**
+### Entwickler für Software-Testautomatisierung
+**Freiberufler**  
+**Dresden, Deutschland**
 
-### Contact
+### Kontakt
 
 [freelancermap](https://www.freelancermap.de/freelancer-verzeichnis/profile/entwicklung/115103-profil-frank-thonig-software-test-automation.html)  
 [linkedin](https://www.linkedin.com/in/frank-thonig)  
