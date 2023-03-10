@@ -14,4 +14,3 @@
 [xing](https://www.xing.com/profile/Frank_Thonig)  
 [freelance](https://www.freelance.de/Freiberufler/99591-Software-Test-Automation)  
 [gulp](https://www.gulp.de/gulp2/g/spezialisten/profil/FrankThonig)  
-[stackoverflow](http://stackoverflow.com/cv/frankthonig)  
