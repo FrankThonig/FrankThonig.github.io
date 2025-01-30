@@ -9,6 +9,6 @@
 
 ### Kontakt
 
-[freelancermap](https://www.freelancermap.de/freelancer-verzeichnis/profile/entwicklung/115103-profil-frank-thonig-software-test-automation.html)  
+[freelancermap](https://www.freelancermap.de/profil/frank-thonig)  
 [linkedin](https://www.linkedin.com/in/frank-thonig)  
 [xing](https://www.xing.com/profile/Frank_Thonig)  
