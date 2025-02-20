@@ -1,6 +1,3 @@
-&nbsp;  
-# Frank Thonig
-
 <img align="right" src="/img/Profile.jpg" width=150/>
 
 ### Entwickler für Software-Testautomatisierung
